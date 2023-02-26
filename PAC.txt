@@ -724,8 +724,9 @@ var rules = [\
   "||facebook.br",\
   ".github.com",\
   ".facebook.com",\
-  ".chat.openai.com",\
   "||facebook.com",\
+  ".chat.openai.com",\
+  "||chat.openai.com",\
   "@@||v6.facebook.com",\
   "||facebook.design",\
   "||connect.facebook.net",\
